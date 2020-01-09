@@ -13,7 +13,7 @@
     <fragment
         android:id="@+id/navigation_owner"
         android:name="com.example.gongkongjie.ui.home.HomeFragment"
-        android:label="@string/title_home"
+        android:label="ss"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/navigation_chat"
